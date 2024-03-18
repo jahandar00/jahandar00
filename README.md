@@ -7,13 +7,13 @@
 <div id="badges">
 
 </div>
-<h2> Hi, Developers,I'm Aytaj Quseynova! </h2>
+<h2> Hi, Developers,I'm Jahandar Hakhiyev! </h2>
 
 
 
 <h2> A little more about me...  </h2>
 <h4>
-- 💬 Ask me about Javascript, PHP, Laravel
+- 💬 Ask me about Python, Javascript, React
 </h4>
  <h4> 
 - 🌱I’m currently learning web development;<h4>
@@ -47,8 +47,8 @@
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="48" height="48" alt="Laravel" />
+        <br>React
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -63,18 +63,10 @@
         <br>Bootstrap
       </td>
     </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-      </td>
+    <tr></tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
         <br>VsCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
       </td>
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
@@ -85,15 +77,4 @@
   <br><br>
 </div>
 
-
-# My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aytajquseynova&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aytajquseynova&theme=dark&hide_border=false)
-
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&layout=compact&show_icons=true&locale=en)
-
-   </div
+   </div>
