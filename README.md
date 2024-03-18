@@ -8,9 +8,6 @@
 
 </div>
 <h2> Hi, Developers,I'm Jahandar Hakhiyev! </h2>
-
-
-
 <h2> A little more about me...  </h2>
 <h4>
 - 💬 Ask me about JavaScript, React, Python 
@@ -21,7 +18,7 @@
  </div>
  </div>
         
-  <br style="width: 100px;">
+  <br>
 
  <div align="left">          
 <h4> Tools and technologies </h4>
