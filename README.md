@@ -13,7 +13,7 @@
 
 <h2> A little more about me...  </h2>
 <h4>
-- 💬 Ask me about Python, Javascript, React
+- 💬 Ask me about JavaScript, Python React
 </h4>
  <h4> 
 - 🌱I’m currently learning web development;<h4>
