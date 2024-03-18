@@ -21,7 +21,7 @@
  </div>
  </div>
         
-  <br style="width: 100px"/>
+  <br style="width: 100px;">
 
  <div align="left">          
 <h4> Tools and technologies </h4>
