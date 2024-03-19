@@ -8,7 +8,7 @@
 
 </div>
 
-<div font-size: "50px"> Hi, Developers,I'm Jahandar Hakhiyev! </div>
+<p font-size: "50px"> Hi, Developers,I'm Jahandar Hakhiyev! </p>
 <h2> A little more about me...  </h2> 
 <h4>
 - 💬 Ask me about JavaScript, React, Python 
