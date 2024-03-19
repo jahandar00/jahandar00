@@ -7,6 +7,8 @@
 <div id="badges">
 
 </div>
+<h2>Hi, Developers,I'm Jahandar Hakhiyev!<h2/>
+<h2>A little more about me...<h2/>
 <!-- <h2> Hi, Developers,I'm Jahandar Hakhiyev! </h2>
 <h2> A little more about me...  </h2> -->
 <h4>
