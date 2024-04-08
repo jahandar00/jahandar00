@@ -7,7 +7,7 @@
 </div>
 <div id="badges">
 </div>
-<h3>Hi, Developers,I'm Jahandar Hakhiyev!</h3>
+<h3>Hi, Developers,I'm Jahandar Hakhiyev! #codist</h3>
 <h3>A little more about me...</h3> 
 <h4>Ask me about JavaScript, React, Node</h4>
 <h4>I’m currently learning Web Development;<h4>
