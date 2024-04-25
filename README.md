@@ -9,7 +9,7 @@
 </div>
 <h3>Hi there,I'm Jahandar Hakhiyev! #codist</h3>
 <h3>Person who is passionate about finding solutions by using code</h3> 
-<h4>Ask me about JavaScript, React, Node</h4>
+<h4>Ask me about <b>Anything</b></h4>
 <h4>I’m currently learning Web Development;<h4>
 
  </div>
