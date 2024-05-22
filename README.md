@@ -57,13 +57,13 @@
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
+        <br>Sass
       </td>
     </tr>
     <tr></tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="VsCode" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.sv" width="48" height="48" alt="VsCode" />
         <br>Rest
       </td>
       <td align="center" width="96">
