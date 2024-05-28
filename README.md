@@ -61,7 +61,7 @@
         <br>Sass
       </td>
     </tr>
-    <tr></tr>
+    <tr></tr> 
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.sv" width="48" height="48" alt="VsCode" />
         <br>Rest
